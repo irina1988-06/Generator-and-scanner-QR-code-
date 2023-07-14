@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Сканер QR и Штрих-кодов</string>
+    <string name="it_rot">я люблю IT-КОТА</string>
+    <string name="scanner">Сканер</string>
+</resources>
